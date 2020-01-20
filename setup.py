@@ -1,5 +1,5 @@
 from setuptools import setup
-setup(name='TOPSIS-53004',
+setup(name='topsis53004pack',
 version='0.1',
 description='Library that implements the "The Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)"',
 url='https://github.com/Ashutosh2088/topsis53004pack',
@@ -7,7 +7,7 @@ download_url='https://github.com/Ashutosh2088/topsis53004pack/archive/v0.1.tar.g
 author='Ashutosh Rattan',
 author_email='ashutosh544@gmail.com',
 license='MIT',
-packages=['topsis53004'],
+packages=['topsis53004pack'],
 install_requires = ['numpy','pandas','math','sys'],
 zip_safe=False,
 classifiers=[
