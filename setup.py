@@ -1,0 +1,22 @@
+from setuptools import setup
+setup(name='TOPSIS-53004',
+version='0.1',
+description='Library that implements the "The Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)"',
+url='#',
+author='Ashutosh Rattan',
+author_email='ashutosh544@gmail.com',
+license='MIT',
+packages=['topsis53004'],
+install_requires = ['numpy','pandas','math','sys'],
+zip_safe=False,
+classifiers=[
+    'Development Status :: 3 - Alpha',      
+    'Intended Audience :: Students',      
+    'Topic :: Software Development :: Build Tools',
+    'License :: OSI Approved :: MIT License',   
+    'Programming Language :: Python :: 3',      
+    'Programming Language :: Python :: 3.4',
+    'Programming Language :: Python :: 3.5',
+    'Programming Language :: Python :: 3.6',
+  ],
+)
