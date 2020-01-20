@@ -1,6 +1,6 @@
 from setuptools import setup
 setup(name='topsis53004pack2',
-version='0.1',
+version='0.2',
 description='Library that implements the "The Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)"',
 url='https://github.com/Ashutosh2088/topsis53004pack2',
 download_url='https://github.com/Ashutosh2088/topsis53004pack2/archive/v0.1.tar.gz',
