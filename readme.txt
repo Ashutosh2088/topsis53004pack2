@@ -1,4 +1,4 @@
-TOPSIS-53004 PACKAGE 
+topsis53004pack PACKAGE 
 ISSUED UNDER THE MIT LICENSE
 This is a package for python that implements the TOPSIS (The Technique for Order of Preference by Simmilarity to Ideal Solution ).
 It contains a single function "topsis" that takes three arguments
